@@ -1,0 +1,28 @@
+TransitionSource,SWA_Stimulus_Question_Task1,SWA_Stimulus_Journalist_List_2,SWA_Stimulus_EventInfo_1,SWA_Stimulus_Journalist_List_3,SWA_Stimulus_Journalist_List_1,SWA_Stimulus_Status_Published1,SWA_Stimulus_Status_Published2,SWA_Stimulus_Status Request1,SWA_Stimulus_Event_Details,SWA_Stimulus_Add_1,SWA_Stimulus_Confirm_add,SWA_Stimulus_Available_Journalists,SWA_Stimulus_Navigation_2,SWA_Stimulus_EventInfo_3,SWA_Stimulus_EventInfo_2,SWA_Stimulus_Journalist_List5,SWA_Stimulus_Status_Published_4,SWA_Stimulus_Journalist_List4,SWA_Stimulus_Journalist_List_6,SWA_Stimulus_Status_invited1,SWA_Stimulus_Navigation_1,SWA_Stimulus_Journalist_selection,SWA_Stimulus_Status_Published_5,SWA_Stimulus_Status_Request2,SWA_Stimulus_Status_Published3,SWA_Stimulus_Status_Published_6,SWA_Stimulus_Add_2
+SWA_Stimulus_Question_Task1,0,1,3,0,0,0,1,0,1,0,0,2,0,0,2,0,1,2,0,0,0,0,0,0,0,0,0
+SWA_Stimulus_Journalist_List_2,0,0,5,1,4,3,3,0,0,0,0,0,1,0,1,0,0,0,0,1,2,0,0,0,0,0,0
+SWA_Stimulus_EventInfo_1,3,7,0,5,15,1,3,14,5,12,0,0,0,0,3,0,0,0,0,0,9,0,0,0,2,0,0
+SWA_Stimulus_Journalist_List_3,0,1,5,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,4,0,0
+SWA_Stimulus_Journalist_List_1,1,0,15,0,0,7,0,7,3,0,0,0,0,0,2,0,0,0,0,1,1,0,0,0,1,0,0
+SWA_Stimulus_Status_Published1,0,3,1,1,4,0,3,3,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0
+SWA_Stimulus_Status_Published2,0,7,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+SWA_Stimulus_Status Request1,0,0,10,1,9,3,1,0,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+SWA_Stimulus_Event_Details,1,0,11,0,1,0,0,0,0,2,1,17,2,0,2,0,0,0,1,0,0,0,1,0,0,0,0
+SWA_Stimulus_Add_1,1,0,9,0,1,0,0,1,4,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+SWA_Stimulus_Confirm_add,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+SWA_Stimulus_Available_Journalists,0,0,0,0,0,0,0,0,17,0,1,0,0,0,1,0,0,2,0,0,0,2,0,0,1,0,0
+SWA_Stimulus_Navigation_2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,0,0,2,0,0,1,0,0,1
+SWA_Stimulus_EventInfo_3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,1,1
+SWA_Stimulus_EventInfo_2,2,0,4,0,1,1,0,1,3,1,0,0,1,5,0,4,4,8,1,4,0,0,2,0,0,0,3
+SWA_Stimulus_Journalist_List5,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1,0,7,2,0,1,0,0,1,1,0,0,0
+SWA_Stimulus_Status_Published_4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,0,2,5,2,0,0,1,2,0,0,0
+SWA_Stimulus_Journalist_List4,1,0,0,0,0,0,0,0,0,0,0,4,0,0,9,1,1,0,0,13,0,0,0,0,0,0,0
+SWA_Stimulus_Journalist_List_6,0,0,0,1,0,0,0,0,0,0,0,0,1,0,2,1,2,1,0,0,0,0,4,0,0,0,0
+SWA_Stimulus_Status_invited1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,2,3,2,10,0,0,0,0,1,1,0,1,0
+SWA_Stimulus_Navigation_1,0,0,9,0,1,1,0,1,0,1,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+SWA_Stimulus_Journalist_selection,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+SWA_Stimulus_Status_Published_5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,1,3,0,0,0,0,0,0,0,0
+SWA_Stimulus_Status_Request2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,0,1,0,0,0,0
+SWA_Stimulus_Status_Published3,0,0,4,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SWA_Stimulus_Status_Published_6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+SWA_Stimulus_Add_2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
